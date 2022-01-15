@@ -1,0 +1,16 @@
+/*type and class*/
+div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20 px;
+    text-align: center;
+}
+
+/* Class and class
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20 px;
+    text-align: center;
+}
